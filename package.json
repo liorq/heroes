@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "micromodal": "^0.4.10",
+    "moment": "^2.29.4"
+  }
+}
